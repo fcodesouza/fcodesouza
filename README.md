@@ -1,4 +1,5 @@
 <h3>Bem vindo, me chamo De Souza. 💼<h3></br>
+  Motivação é a arte de fazer as pessoas fazerem o que você quer que elas façam porque elas o querem fazer.
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fcodesouzaneto/) [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](83996666778)
 
