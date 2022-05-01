@@ -1,6 +1,5 @@
 <h2>Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer. - Confúcio</h2></p>
 
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fcodesouzaneto/)
 ![De Souza](https://github-readme-stats.vercel.app/api?username=fcodesouza&show_icons=true&theme=highcontrast)
 ![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fcodesouza&layout=compact)
 
