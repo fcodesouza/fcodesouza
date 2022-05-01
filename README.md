@@ -1,5 +1,5 @@
 <p align="center" dir="auto"><img width="80%" src="https://drive.google.com/file/d/1MNVONn7xS4oIoB8GblDGM17fnnZpbm5z/view?usp=sharing" style="max-width: 100%;"></a></p>
-  
+
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fcodesouzaneto/) [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](83996666778)
 
 ![De Souza](https://github-readme-stats.vercel.app/api?username=fcodesouza&show_icons=true&theme=highcontrast)
