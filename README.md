@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/fcodesouza">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fcodesouza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcodesouza&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fcodesouza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcodesouza&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <h3>LINGUAGENS:</h3></p>
