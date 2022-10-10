@@ -1,4 +1,4 @@
-## Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer. - Confúcio
+## Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer.<br> - Confúcio
 
 <div align="left">
   <a href="https://github.com/fcodesouza">
