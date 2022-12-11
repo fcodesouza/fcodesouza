@@ -1,5 +1,5 @@
 <h3>BACKEND:</h3></p>
-https://badgen.net/pypi/python/black
+<img src="/badge/color/blue/blue" class="jsx-4170937726">
 
 <h3>FRONEND:</h3></p>
   
