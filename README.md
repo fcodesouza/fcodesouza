@@ -36,6 +36,6 @@ Link: https://desouzadev.000webhostapp.com/assets/sitefotos/index.html <br>
 Estudos sobre BOOTSTRAP do livro Bootstrap 4 .<br>
 
 ## Grande Lição:
-### "A persistência realiza o impossível." <br>
+### "*A persistência realiza o impossível." <br*>
 
 Provérbio Chinês
