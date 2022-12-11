@@ -13,7 +13,7 @@
 
 ## OUTRAS:
 
-![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## PROJETOS:
@@ -33,8 +33,9 @@ Estudos sobre HTML e CSS para o curso da OneBitCode.<br>
 
 Estudo sobre Bootstrap: <br>
 Link: https://desouzadev.000webhostapp.com/assets/sitefotos/index.html <br>
-Estudos sobre BOOTSTRAP do livro Bootstrap 4.
+Estudos sobre BOOTSTRAP do livro Bootstrap 4 .<br>
 
 ## Grande Lição:
-### "*A persistência realiza o impossível.*"
+
+### "_A persistência realiza o impossível._"
 Provérbio Chinês
