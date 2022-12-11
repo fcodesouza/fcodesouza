@@ -1,4 +1,5 @@
 <h3>BACKEND:</h3></p>
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3)
 
 <h3>FRONEND:</h3></p>
 
