@@ -34,3 +34,8 @@ Estudos sobre HTML e CSS para o curso da OneBitCode.<br>
 Estudo sobre Bootstrap: <br>
 Link: https://desouzadev.000webhostapp.com/assets/sitefotos/index.html <br>
 Estudos sobre BOOTSTRAP do livro Bootstrap 4 .<br>
+
+## Grande Lição:
+### "A persistência realiza o impossível." <br>
+
+Provérbio Chinês
