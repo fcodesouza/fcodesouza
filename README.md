@@ -18,6 +18,11 @@
 
 ## PROJETOS:
 
+Jogo da Velha: <br>
+Link: https://github.com/fcodesouza/jogodavelha<br>
+Estudos sobre HTML e CSS.<br>
+Janeiro de 2023.<br>
+
 Planner de Viagens: <br>
 Link: https://desouzadev.000webhostapp.com/assets/PlannerViagens/index.html <br>
 Estudos sobre HTML e CSS.<br>
