@@ -18,27 +18,7 @@
 
 ## PROJETOS:
 
-Jogo da Velha: <br>
-Link: https://github.com/fcodesouza/jogodavelha<br>
-Estudos sobre HTML e CSS.<br>
-Janeiro de 2023.<br>
-
-Planner de Viagens: <br>
-Link: https://desouzadev.000webhostapp.com/assets/PlannerViagens/index.html <br>
-Estudos sobre HTML e CSS.<br>
-Outubro de 2022.<br>
-
-Calculadora: <br>
-Link: https://desouzadev.000webhostapp.com/assets/calculadora/ <br>
-Estudos sobre HTML e CSS e PHP.<br>
-
-Estudo sobre formulário: <br>
-Link: https://desouzadev.000webhostapp.com/assets/SpaceX/index.html <br>
-Estudos sobre HTML e CSS para o curso da OneBitCode.<br>
-
-Estudo sobre Bootstrap: <br>
-Link: https://desouzadev.000webhostapp.com/assets/sitefotos/index.html <br>
-Estudos sobre BOOTSTRAP do livro Bootstrap 4 .<br>
+...
 
 ## Grande Lição:
 
